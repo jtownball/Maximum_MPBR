@@ -1,5 +1,8 @@
 # Maximum_MPBR
 
+Source for ballistics calculator
+https://www.jbmballistics.com/ballistics/calculators/calculators.shtml
+
 So the Army wants to train and equip soldiers to be effective in combat. Through years of experience they've come up with some very good approaches small arms combat.
 In particular, how they setup the M4 rifleman rifle.
 The M4 is is fairly close to the AR platform that is generally hated as a weapon of war that "doesn't belong on our streets" or whatever (not here for the gun debate).
